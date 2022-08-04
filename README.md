@@ -1,1 +1,3 @@
-# SimpleWebServer
+# Golang Project 2
+
+## SimpleWebServer

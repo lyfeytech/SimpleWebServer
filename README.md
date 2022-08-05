@@ -1,6 +1,6 @@
 # #2 Simple Web Server
 
-Simple Web Server is a Golang project to display simple hello webpage, form webpage, and server page. 
+Simple Web Server is a Golang project which displays simple hello webpage, form webpage, and server page. 
 
 This project uses HTTP (Hypertext Transfer Protocol) and other protocols to respond to client requests made over the World Wide Web.
 
